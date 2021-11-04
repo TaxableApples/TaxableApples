@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @TaxableApples
 
-- 👀 I’m interested in 🎸 music, 🛹 skateboarding, 🐉 dungeons & dragons
+- 👀 I’m interested in 🎸 music, 🛹 skateboarding, 🐉 dungeons & dragons, and other nerdy stuff.
 
-- 🌱 I’m a junior developer at a health insurance company and I'm currently learning react! 😬 ...but in doing so I learned that github is easier than I thought!
+- 🌱 I’m a junior software engineer at a health insurance company.
 
 <!---
 TaxableApples/TaxableApples is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
