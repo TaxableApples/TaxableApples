@@ -2,7 +2,7 @@
 
 - 👀 I’m interested in 🎸 music, 🛹 skateboarding, 🐉 dungeons & dragons, and other nerdy stuff.
 
-- 🌱 I’m a junior software engineer at a health insurance company.
+- 🌱 Full stack software engineer at a health insurance company.
 
 <!---
 TaxableApples/TaxableApples is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
