@@ -5,9 +5,11 @@
 - 🌱 I am a Full stack web developer for a health insurance company.
 
 - Below are all my websites, developed, designed and maintained by me:
+
   https://fullfretboard.com/ <-- Music Theory Lessons and an advanced musical scale & chord calculator for guitar and other stringed instruments.
 
   Music Projects (I play the bass):
+
   https://madgods.net/
   https://asilencebroken.net/
 
